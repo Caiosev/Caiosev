@@ -28,6 +28,9 @@ A front-end developer who is also passionate about game development and informat
 <div align="center">
   <a href ="kaiosev9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-severino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+    ![Snake animation](https://github.com/caiosev/caiosev/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
     
 
