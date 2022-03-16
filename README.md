@@ -4,9 +4,6 @@ I’m Caio Severino, 20 years old, currently living in Brazil.
 
 I am a computer technician graduated from "ETEC - Colégio Escola Técnica Estadual” in 2018. Currently, I am a graduate student in Computer Engineering at University of São Paulo (UNIP, Universidade Paulista) in São José dos Campos, São Paulo.
 
-A front-end developer who is also passionate about game development and information security.
-
-
 <div align="center">
   <a href="https://github.com/Caiosev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiosev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
